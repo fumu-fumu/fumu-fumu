@@ -11,7 +11,9 @@ Fertig zum Herunterladen auf **[tunomi.de](https://tunomi.de)**, der Code liegt 
 
 Abends vor dem Einschlafen sprichst du ins Handy, was dich beschäftigt – ohne zu tippen. Die App schreibt es ab, legt es mit Datum in dein Tagebuch und hilft dir später, aus all dem Material Kapitel für ein Buch zu formen: mit Figurenseiten, Zeitleiste, Zitaten, die zur Stelle in der Aufnahme springen, und einem Co-Autor, der Kapitel vorschlägt und Lücken findet.
 
-→ [Herunterladen auf tunomi.de](https://tunomi.de/#co-author) · [Code](https://github.com/fumu-fumu/ai-co-author-studio)
+→ [Herunterladen auf tunomi.de](https://tunomi.de/#co-author) · [iPhone-App (Beta über TestFlight)](https://testflight.apple.com/join/cwNbse2n) · [Code](https://github.com/fumu-fumu/ai-co-author-studio)
+
+Die iPhone-App „Co-Author“ ist zum Aufnehmen und Tippen unterwegs. Der Link geht los, sobald Apple die Beta geprüft hat.
 
 Zum Abschreiben gehen die Aufnahmen an Google (Gemini, kostenloser Schlüssel nötig); alles andere bleibt auf deinem Mac.
 
@@ -45,7 +47,9 @@ Ready to download at **[tunomi.de](https://tunomi.de)**; the code is here in the
 
 In the evening before you fall asleep, you tell your phone what is on your mind – no typing. The app transcribes it, files it by date in your diary and later helps you shape all that material into chapters for a book: character pages, a timeline, quotes that jump to their spot in the recording, and a co-author that suggests chapters and finds gaps.
 
-→ [Download at tunomi.de](https://tunomi.de/#co-author) · [Code](https://github.com/fumu-fumu/ai-co-author-studio)
+→ [Download at tunomi.de](https://tunomi.de/#co-author) · [iPhone app (beta via TestFlight)](https://testflight.apple.com/join/cwNbse2n) · [Code](https://github.com/fumu-fumu/ai-co-author-studio)
+
+The iPhone app “Co-Author” is for recording and typing on the go. The link starts working as soon as Apple has reviewed the beta.
 
 For transcription the recordings are sent to Google (Gemini, a free key is needed); everything else stays on your Mac.
 
