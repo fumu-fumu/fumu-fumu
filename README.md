@@ -7,13 +7,13 @@ Fertig zum Herunterladen auf **[tunomi.de](https://tunomi.de)**, der Code liegt 
 
 ## Neu: AI Co-Author Studio
 
-**Dein Tagebuch zum Sprechen – und aus Hunderten Aufnahmen wird ein Buchmanuskript.**
+**Dein Tagebuch zum Sprechen – und aus den Aufnahmen wird ein Buchmanuskript.**
 
 Abends vor dem Einschlafen sprichst du ins Handy, was dich beschäftigt – ohne zu tippen. Die App schreibt es ab, legt es mit Datum in dein Tagebuch und hilft dir später, aus all dem Material Kapitel für ein Buch zu formen: mit Figurenseiten, Zeitleiste, Zitaten, die zur Stelle in der Aufnahme springen, und einem Co-Autor, der Kapitel vorschlägt und Lücken findet.
 
 → [Herunterladen auf tunomi.de](https://tunomi.de/#co-author) · [iPhone-App (Beta über TestFlight)](https://testflight.apple.com/join/cwNbse2n) · [Code](https://github.com/fumu-fumu/ai-co-author-studio)
 
-Die iPhone-App „Co-Author“ ist zum Aufnehmen und Tippen unterwegs. Der Link geht los, sobald Apple die Beta geprüft hat.
+Mit der iPhone-App „Co-Author“ nimmst du unterwegs auf oder tippst: Über iCloud landet alles von selbst in der Mac-App und wird abgeschrieben. Sprachmemos aus anderen Apps ziehst du einfach in den Eingang. Der Link geht los, sobald Apple die Beta geprüft hat.
 
 Zum Abschreiben gehen die Aufnahmen an Google (Gemini, kostenloser Schlüssel nötig); alles andere bleibt auf deinem Mac.
 
@@ -21,7 +21,7 @@ Zum Abschreiben gehen die Aufnahmen an Google (Gemini, kostenloser Schlüssel n�
 
 | Programm | Was es tut | |
 |---|---|---|
-| **AI Co-Author Studio** | Dein Tagebuch zum Sprechen – und aus Hunderten Aufnahmen wird ein Buchmanuskript. | [tunomi.de](https://tunomi.de/#co-author) · [Code](https://github.com/fumu-fumu/ai-co-author-studio) |
+| **AI Co-Author Studio** | Dein Tagebuch zum Sprechen – und aus den Aufnahmen wird ein Buchmanuskript. | [tunomi.de](https://tunomi.de/#co-author) · [Code](https://github.com/fumu-fumu/ai-co-author-studio) |
 | **Radiorecorder** | Nimmt Internetradio auf und legt jeden Song als eigene Datei ab – sauber geschnitten. | [tunomi.de](https://tunomi.de/#radiorecorder) · [Code](https://github.com/fumu-fumu/radiorecorder) |
 | **Window('s) Shot** | Fotografiert und filmt genau die Fenster, die du zeigen willst – auf Wunsch mit schönem Hintergrund. | [tunomi.de](https://tunomi.de/#windows-shot) · [Code](https://github.com/fumu-fumu/windows-shot) |
 | **Shutdown Enforcer** | Schaltet den Mac per Timer, zur Uhrzeit oder nach Zeitplan zuverlässig aus. | [tunomi.de](https://tunomi.de/#shutdown-enforcer) · [Code](https://github.com/fumu-fumu/shutdown-enforcer) |
@@ -43,13 +43,13 @@ Ready to download at **[tunomi.de](https://tunomi.de)**; the code is here in the
 
 ## New: AI Co-Author Studio
 
-**A diary you speak – and hundreds of voice memos become a book manuscript.**
+**A diary you speak – and your recordings become a book manuscript.**
 
 In the evening before you fall asleep, you tell your phone what is on your mind – no typing. The app transcribes it, files it by date in your diary and later helps you shape all that material into chapters for a book: character pages, a timeline, quotes that jump to their spot in the recording, and a co-author that suggests chapters and finds gaps.
 
 → [Download at tunomi.de](https://tunomi.de/#co-author) · [iPhone app (beta via TestFlight)](https://testflight.apple.com/join/cwNbse2n) · [Code](https://github.com/fumu-fumu/ai-co-author-studio)
 
-The iPhone app “Co-Author” is for recording and typing on the go. The link starts working as soon as Apple has reviewed the beta.
+With the iPhone app “Co-Author” you record or type on the go: via iCloud everything arrives in the Mac app by itself and is transcribed. Voice memos from other apps you simply drag into the inbox. The link starts working as soon as Apple has reviewed the beta.
 
 For transcription the recordings are sent to Google (Gemini, a free key is needed); everything else stays on your Mac.
 
@@ -57,7 +57,7 @@ For transcription the recordings are sent to Google (Gemini, a free key is neede
 
 | App | What it does | |
 |---|---|---|
-| **AI Co-Author Studio** | A diary you speak – and hundreds of voice memos become a book manuscript. | [tunomi.de](https://tunomi.de/#co-author) · [Code](https://github.com/fumu-fumu/ai-co-author-studio) |
+| **AI Co-Author Studio** | A diary you speak – and your recordings become a book manuscript. | [tunomi.de](https://tunomi.de/#co-author) · [Code](https://github.com/fumu-fumu/ai-co-author-studio) |
 | **Radiorecorder** | Records internet radio and saves every song as its own file – cleanly cut. | [tunomi.de](https://tunomi.de/#radiorecorder) · [Code](https://github.com/fumu-fumu/radiorecorder) |
 | **Window('s) Shot** | Captures and records exactly the windows you want to show – with a nice background if you like. | [tunomi.de](https://tunomi.de/#windows-shot) · [Code](https://github.com/fumu-fumu/windows-shot) |
 | **Shutdown Enforcer** | Reliably shuts down your Mac by timer, at a set time or on a schedule. | [tunomi.de](https://tunomi.de/#shutdown-enforcer) · [Code](https://github.com/fumu-fumu/shutdown-enforcer) |
