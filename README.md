@@ -22,6 +22,8 @@ Diese Software soll allen Menschen gehören, die sie brauchen können.
 
 Du musst nicht programmieren können. Gute Ideen und genaue Fehlerberichte sind genauso viel wert wie Code.
 
+**Lizenz:** Alle Programme stehen unter der GPL-3.0. Du darfst sie benutzen, weitergeben und verändern. Wer eine veränderte Fassung weitergibt, muss auch deren Code offenlegen – so bleibt die Software für alle offen. Das Urheberrecht bleibt bei Stefan Wallner (FUMUFUMU).
+
 ## Neu: AI Co-Author Studio
 
 **Dein Tagebuch zum Sprechen – und aus den Aufnahmen wird ein Buchmanuskript.**
@@ -75,6 +77,8 @@ This software should belong to everyone who can use it.
 3. **Spread the word:** Tell others or give the repo a star. It helps more people find the apps.
 
 You don't need to be able to code. Good ideas and precise bug reports are worth just as much as code.
+
+**Licence:** All apps are released under the GPL-3.0. You may use, share and change them. Anyone who shares a changed version must publish its code too – that keeps the software open for everyone. Copyright remains with Stefan Wallner (FUMUFUMU).
 
 ## New: AI Co-Author Studio
 
