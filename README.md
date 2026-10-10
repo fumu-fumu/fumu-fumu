@@ -20,7 +20,7 @@ Diese Software soll allen Menschen gehören, die sie brauchen können.
 2. **Selbst verbessern:** Repo mit „Fork“ kopieren, ändern, „Pull request“ schicken. Ich sehe mir jeden Vorschlag an.
 3. **Weitersagen:** Erzähl anderen davon oder gib dem Repo einen Stern. Das hilft, dass mehr Menschen die Programme finden.
 
-Du musst nicht programmieren können. Ich kann es auch nicht: Alle Programme hier sind zusammen mit einer KI entstanden. Gute Ideen und genaue Fehlerberichte sind genauso viel wert wie Code.
+Du musst nicht programmieren können. Gute Ideen und genaue Fehlerberichte sind genauso viel wert wie Code.
 
 ## Neu: AI Co-Author Studio
 
@@ -74,7 +74,7 @@ This software should belong to everyone who can use it.
 2. **Improve it yourself:** Copy the repo with “Fork”, change it, send a “Pull request”. I look at every suggestion.
 3. **Spread the word:** Tell others or give the repo a star. It helps more people find the apps.
 
-You don't need to be able to code. Neither can I: every app here was built together with an AI. Good ideas and precise bug reports are worth just as much as code.
+You don't need to be able to code. Good ideas and precise bug reports are worth just as much as code.
 
 ## New: AI Co-Author Studio
 
