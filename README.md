@@ -5,6 +5,23 @@ Fertig zum Herunterladen auf **[tunomi.de](https://tunomi.de)**, der Code liegt 
 
 *English version below.*
 
+## Für alle. Kostenlos. Mach mit.
+
+Diese Software soll allen Menschen gehören, die sie brauchen können.
+
+- **Für alle:** Jede und jeder darf die Programme laden und benutzen. Kein Konto, keine Anmeldung, keine Werbung.
+- **Kostenlos – und das bleibt so:** Kein Preis, kein Abo, keine versteckte Bezahl-Fassung. Nicht heute und nicht später.
+- **Offen:** Der ganze Code liegt hier. Du kannst nachlesen, was die Programme tun und wie sie gebaut sind.
+- **Mach sie besser:** Du hast einen Fehler gefunden, eine Idee oder kannst selbst programmieren? Dann bist du eingeladen mitzumachen.
+
+**So machst du mit**
+
+1. **Fehler oder Wunsch melden:** Im Repo des Programms oben auf „Issues“ und dann „New issue“ – oder eine Mail an kontakt@tunomi.de. Es reicht ein Satz, gern mit Bildschirmfoto.
+2. **Selbst verbessern:** Repo mit „Fork“ kopieren, ändern, „Pull request“ schicken. Ich sehe mir jeden Vorschlag an.
+3. **Weitersagen:** Erzähl anderen davon oder gib dem Repo einen Stern. Das hilft, dass mehr Menschen die Programme finden.
+
+Du musst nicht programmieren können. Ich kann es auch nicht: Alle Programme hier sind zusammen mit einer KI entstanden. Gute Ideen und genaue Fehlerberichte sind genauso viel wert wie Code.
+
 ## Neu: AI Co-Author Studio
 
 **Dein Tagebuch zum Sprechen – und aus den Aufnahmen wird ein Buchmanuskript.**
@@ -29,6 +46,7 @@ Zum Abschreiben gehen die Aufnahmen an Google (Gemini, kostenloser Schlüssel n�
 | **Rotlichtfilter** | Ein Klick, und dein Bildschirm leuchtet nur noch rot – schont die Augen am Abend. | [tunomi.de](https://tunomi.de/#rotlichtfilter) · [Code](https://github.com/fumu-fumu/rotlichtfilter) |
 | **Tagesblick Widget** | Ein großes Widget für den Schreibtisch: Wetter, Aktien, deine Nachrichten und die KI-Ranglisten auf einen Blick. | [tunomi.de](https://tunomi.de/#tagesblick) · [Code](https://github.com/fumu-fumu/tagesblick) |
 | **Kurzbefehle Widget** | Ein Spickzettel für Mac-Kurzbefehle auf deinem Schreibtisch. | [tunomi.de](https://tunomi.de/#kurzbefehle) · [Code](https://github.com/fumu-fumu/kurzbefehle-widget) |
+| **Neon Matrix** | Matrix-Regen hinter deinem Terminal – Farben, Tempo und Dichte stellst du mit Schiebereglern ein. | [tunomi.de](https://tunomi.de/#neon-matrix) |
 
 Die Mac-Apps sind mit einer Developer ID signiert und von Apple geprüft (notarisiert). Jedem Download liegt eine Anleitung bei.
 
@@ -40,6 +58,23 @@ Fragen, Fehler, Ideen: **kontakt@tunomi.de**
 
 **Free for everyone.** Small and large apps for the Mac – no subscription, no ads.
 Ready to download at **[tunomi.de](https://tunomi.de)**; the code is here in the open for anyone to read.
+
+## For everyone. Free. Join in.
+
+This software should belong to everyone who can use it.
+
+- **For everyone:** Anyone may download and use the apps. No account, no sign-up, no ads.
+- **Free – and it stays that way:** No price, no subscription, no hidden paid version. Not today and not later.
+- **Open:** All the code is here. You can read what the apps do and how they are built.
+- **Make it better:** Found a bug, have an idea, or can you code? Then you are invited to join in.
+
+**How to take part**
+
+1. **Report a bug or a wish:** In the app's repo, click “Issues” and then “New issue” – or write to kontakt@tunomi.de. One sentence is enough, a screenshot helps.
+2. **Improve it yourself:** Copy the repo with “Fork”, change it, send a “Pull request”. I look at every suggestion.
+3. **Spread the word:** Tell others or give the repo a star. It helps more people find the apps.
+
+You don't need to be able to code. Neither can I: every app here was built together with an AI. Good ideas and precise bug reports are worth just as much as code.
 
 ## New: AI Co-Author Studio
 
@@ -65,6 +100,7 @@ For transcription the recordings are sent to Google (Gemini, a free key is neede
 | **Rotlichtfilter** | One click and your screen glows only red – easy on your eyes in the evening. | [tunomi.de](https://tunomi.de/#rotlichtfilter) · [Code](https://github.com/fumu-fumu/rotlichtfilter) |
 | **Tagesblick Widget** | A large widget for your desktop: weather, stocks, your news and the AI leaderboards at a glance. | [tunomi.de](https://tunomi.de/#tagesblick) · [Code](https://github.com/fumu-fumu/tagesblick) |
 | **Kurzbefehle Widget** | A cheat sheet for Mac shortcuts on your desktop. | [tunomi.de](https://tunomi.de/#kurzbefehle) · [Code](https://github.com/fumu-fumu/kurzbefehle-widget) |
+| **Neon Matrix** | Matrix rain behind your terminal – set colours, speed and density with sliders. | [tunomi.de](https://tunomi.de/#neon-matrix) |
 
 The Mac apps are signed with a Developer ID and notarised by Apple. Every download comes with a guide.
 
