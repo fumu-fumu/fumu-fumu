@@ -1,4 +1,4 @@
-# tunomi – Software von FUMUFUMU
+# tunomi – Software von fumufumu
 
 **Kostenlos für alle.** Kleine und große Programme für den Mac – ohne Abo, ohne Werbung.
 Fertig zum Herunterladen auf **[tunomi.de](https://tunomi.de)**, der Code liegt hier offen zum Mitlesen.
@@ -56,7 +56,7 @@ Fragen, Fehler, Ideen: **kontakt@tunomi.de**
 
 ---
 
-# tunomi – software by FUMUFUMU
+# tunomi – software by fumufumu
 
 **Free for everyone.** Small and large apps for the Mac – no subscription, no ads.
 Ready to download at **[tunomi.de](https://tunomi.de)**; the code is here in the open for anyone to read.
