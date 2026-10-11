@@ -41,7 +41,7 @@ Zum Abschreiben gehen die Aufnahmen an Google (Gemini, kostenloser Schlüssel n�
 | Programm | Was es tut | |
 |---|---|---|
 | **AI Co-Author Studio** | Dein Tagebuch zum Sprechen – und aus den Aufnahmen wird ein Buchmanuskript. | [tunomi.de](https://tunomi.de/#co-author) · [Code](https://github.com/fumu-fumu/ai-co-author-studio) |
-| **Radiorecorder** | Nimmt Internetradio auf und legt jeden Song als eigene Datei ab – sauber geschnitten. | [tunomi.de](https://tunomi.de/#radiorecorder) · [Code](https://github.com/fumu-fumu/radiorecorder) |
+| **Radiorecorder** | Nimmt Internetradio auf und legt jeden Song als eigene Datei ab – sauber geschnitten. | [tunomi.de](https://tunomi.de/#radiorecorder) |
 | **Window('s) Shot** | Fotografiert und filmt genau die Fenster, die du zeigen willst – auf Wunsch mit schönem Hintergrund. | [tunomi.de](https://tunomi.de/#windows-shot) · [Code](https://github.com/fumu-fumu/windows-shot) |
 | **Shutdown Enforcer** | Schaltet den Mac per Timer, zur Uhrzeit oder nach Zeitplan zuverlässig aus. | [tunomi.de](https://tunomi.de/#shutdown-enforcer) · [Code](https://github.com/fumu-fumu/shutdown-enforcer) |
 | **Finder Copy** | Ein Knopf im Finder, der den Inhalt eines Ordners als Tabelle kopiert. | [tunomi.de](https://tunomi.de/#finder-copy) · [Code](https://github.com/fumu-fumu/finder-copy) |
@@ -97,7 +97,7 @@ For transcription the recordings are sent to Google (Gemini, a free key is neede
 | App | What it does | |
 |---|---|---|
 | **AI Co-Author Studio** | A diary you speak – and your recordings become a book manuscript. | [tunomi.de](https://tunomi.de/#co-author) · [Code](https://github.com/fumu-fumu/ai-co-author-studio) |
-| **Radiorecorder** | Records internet radio and saves every song as its own file – cleanly cut. | [tunomi.de](https://tunomi.de/#radiorecorder) · [Code](https://github.com/fumu-fumu/radiorecorder) |
+| **Radiorecorder** | Records internet radio and saves every song as its own file – cleanly cut. | [tunomi.de](https://tunomi.de/#radiorecorder) |
 | **Window('s) Shot** | Captures and records exactly the windows you want to show – with a nice background if you like. | [tunomi.de](https://tunomi.de/#windows-shot) · [Code](https://github.com/fumu-fumu/windows-shot) |
 | **Shutdown Enforcer** | Reliably shuts down your Mac by timer, at a set time or on a schedule. | [tunomi.de](https://tunomi.de/#shutdown-enforcer) · [Code](https://github.com/fumu-fumu/shutdown-enforcer) |
 | **Finder Copy** | A button in the Finder that copies a folder's contents as a table. | [tunomi.de](https://tunomi.de/#finder-copy) · [Code](https://github.com/fumu-fumu/finder-copy) |
