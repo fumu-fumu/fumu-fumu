@@ -30,7 +30,7 @@ Du musst nicht programmieren können. Gute Ideen und genaue Fehlerberichte sind 
 
 Abends vor dem Einschlafen sprichst du ins Handy, was dich beschäftigt – ohne zu tippen. Die App schreibt es ab, legt es mit Datum in dein Tagebuch und hilft dir später, aus all dem Material Kapitel für ein Buch zu formen: mit Figurenseiten, Zeitleiste, Zitaten, die zur Stelle in der Aufnahme springen, und einem Co-Autor, der Kapitel vorschlägt und Lücken findet.
 
-→ [Herunterladen auf tunomi.de](https://tunomi.de/#co-author) · [iPhone-App (Beta über TestFlight)](https://testflight.apple.com/join/cwNbse2n) · [Code](https://github.com/fumu-fumu/ai-co-author-studio)
+→ [Herunterladen auf tunomi.de](https://tunomi.de/#co-author) · [iPhone-App (Beta über TestFlight)](https://testflight.apple.com/join/cwNbse2n)
 
 Mit der iPhone-App „Co-Author“ nimmst du unterwegs auf oder tippst: Über iCloud landet alles von selbst in der Mac-App und wird abgeschrieben. Sprachmemos aus anderen Apps ziehst du einfach in den Eingang. Der Link geht los, sobald Apple die Beta geprüft hat.
 
@@ -40,14 +40,13 @@ Zum Abschreiben gehen die Aufnahmen an Google (Gemini, kostenloser Schlüssel n�
 
 | Programm | Was es tut | |
 |---|---|---|
-| **AI Co-Author Studio** | Dein Tagebuch zum Sprechen – und aus den Aufnahmen wird ein Buchmanuskript. | [tunomi.de](https://tunomi.de/#co-author) · [Code](https://github.com/fumu-fumu/ai-co-author-studio) |
-| **Radiorecorder** | Nimmt Internetradio auf und legt jeden Song als eigene Datei ab – sauber geschnitten. | [tunomi.de](https://tunomi.de/#radiorecorder) |
-| **Window('s) Shot** | Fotografiert und filmt genau die Fenster, die du zeigen willst – auf Wunsch mit schönem Hintergrund. | [tunomi.de](https://tunomi.de/#windows-shot) · [Code](https://github.com/fumu-fumu/windows-shot) |
-| **Shutdown Enforcer** | Schaltet den Mac per Timer, zur Uhrzeit oder nach Zeitplan zuverlässig aus. | [tunomi.de](https://tunomi.de/#shutdown-enforcer) · [Code](https://github.com/fumu-fumu/shutdown-enforcer) |
-| **Finder Copy** | Ein Knopf im Finder, der den Inhalt eines Ordners als Tabelle kopiert. | [tunomi.de](https://tunomi.de/#finder-copy) · [Code](https://github.com/fumu-fumu/finder-copy) |
-| **Rotlichtfilter** | Ein Klick, und dein Bildschirm leuchtet nur noch rot – schont die Augen am Abend. | [tunomi.de](https://tunomi.de/#rotlichtfilter) · [Code](https://github.com/fumu-fumu/rotlichtfilter) |
-| **Tagesblick Widget** | Ein großes Widget für den Schreibtisch: Wetter, Aktien, deine Nachrichten und die KI-Ranglisten auf einen Blick. | [tunomi.de](https://tunomi.de/#tagesblick) · [Code](https://github.com/fumu-fumu/tagesblick) |
-| **Kurzbefehle Widget** | Ein Spickzettel für Mac-Kurzbefehle auf deinem Schreibtisch. | [tunomi.de](https://tunomi.de/#kurzbefehle) · [Code](https://github.com/fumu-fumu/kurzbefehle-widget) |
+| **AI Co-Author Studio** | Dein Tagebuch zum Sprechen – und aus den Aufnahmen wird ein Buchmanuskript. | [tunomi.de](https://tunomi.de/#co-author) |
+| **Window('s) Shot** | Fotografiert und filmt genau die Fenster, die du zeigen willst – auf Wunsch mit schönem Hintergrund. | [tunomi.de](https://tunomi.de/#windows-shot) |
+| **Shutdown Enforcer** | Schaltet den Mac per Timer, zur Uhrzeit oder nach Zeitplan zuverlässig aus. | [tunomi.de](https://tunomi.de/#shutdown-enforcer) |
+| **Finder Copy** | Ein Knopf im Finder, der den Inhalt eines Ordners als Tabelle kopiert. | [tunomi.de](https://tunomi.de/#finder-copy) |
+| **Rotlichtfilter** | Ein Klick, und dein Bildschirm leuchtet nur noch rot – schont die Augen am Abend. | [tunomi.de](https://tunomi.de/#rotlichtfilter) |
+| **Tagesblick Widget** | Ein großes Widget für den Schreibtisch: Wetter, Aktien, deine Nachrichten und die KI-Ranglisten auf einen Blick. | [tunomi.de](https://tunomi.de/#tagesblick) |
+| **Kurzbefehle Widget** | Ein Spickzettel für Mac-Kurzbefehle auf deinem Schreibtisch. | [tunomi.de](https://tunomi.de/#kurzbefehle) |
 | **Neon Matrix** | Matrix-Regen hinter deinem Terminal – Farben, Tempo und Dichte stellst du mit Schiebereglern ein. | [tunomi.de](https://tunomi.de/#neon-matrix) |
 
 Die Mac-Apps sind mit einer Developer ID signiert und von Apple geprüft (notarisiert). Jedem Download liegt eine Anleitung bei.
@@ -86,7 +85,7 @@ You don't need to be able to code. Good ideas and precise bug reports are worth 
 
 In the evening before you fall asleep, you tell your phone what is on your mind – no typing. The app transcribes it, files it by date in your diary and later helps you shape all that material into chapters for a book: character pages, a timeline, quotes that jump to their spot in the recording, and a co-author that suggests chapters and finds gaps.
 
-→ [Download at tunomi.de](https://tunomi.de/#co-author) · [iPhone app (beta via TestFlight)](https://testflight.apple.com/join/cwNbse2n) · [Code](https://github.com/fumu-fumu/ai-co-author-studio)
+→ [Download at tunomi.de](https://tunomi.de/#co-author) · [iPhone app (beta via TestFlight)](https://testflight.apple.com/join/cwNbse2n)
 
 With the iPhone app “Co-Author” you record or type on the go: via iCloud everything arrives in the Mac app by itself and is transcribed. Voice memos from other apps you simply drag into the inbox. The link starts working as soon as Apple has reviewed the beta.
 
@@ -96,14 +95,13 @@ For transcription the recordings are sent to Google (Gemini, a free key is neede
 
 | App | What it does | |
 |---|---|---|
-| **AI Co-Author Studio** | A diary you speak – and your recordings become a book manuscript. | [tunomi.de](https://tunomi.de/#co-author) · [Code](https://github.com/fumu-fumu/ai-co-author-studio) |
-| **Radiorecorder** | Records internet radio and saves every song as its own file – cleanly cut. | [tunomi.de](https://tunomi.de/#radiorecorder) |
-| **Window('s) Shot** | Captures and records exactly the windows you want to show – with a nice background if you like. | [tunomi.de](https://tunomi.de/#windows-shot) · [Code](https://github.com/fumu-fumu/windows-shot) |
-| **Shutdown Enforcer** | Reliably shuts down your Mac by timer, at a set time or on a schedule. | [tunomi.de](https://tunomi.de/#shutdown-enforcer) · [Code](https://github.com/fumu-fumu/shutdown-enforcer) |
-| **Finder Copy** | A button in the Finder that copies a folder's contents as a table. | [tunomi.de](https://tunomi.de/#finder-copy) · [Code](https://github.com/fumu-fumu/finder-copy) |
-| **Rotlichtfilter** | One click and your screen glows only red – easy on your eyes in the evening. | [tunomi.de](https://tunomi.de/#rotlichtfilter) · [Code](https://github.com/fumu-fumu/rotlichtfilter) |
-| **Tagesblick Widget** | A large widget for your desktop: weather, stocks, your news and the AI leaderboards at a glance. | [tunomi.de](https://tunomi.de/#tagesblick) · [Code](https://github.com/fumu-fumu/tagesblick) |
-| **Kurzbefehle Widget** | A cheat sheet for Mac shortcuts on your desktop. | [tunomi.de](https://tunomi.de/#kurzbefehle) · [Code](https://github.com/fumu-fumu/kurzbefehle-widget) |
+| **AI Co-Author Studio** | A diary you speak – and your recordings become a book manuscript. | [tunomi.de](https://tunomi.de/#co-author) |
+| **Window('s) Shot** | Captures and records exactly the windows you want to show – with a nice background if you like. | [tunomi.de](https://tunomi.de/#windows-shot) |
+| **Shutdown Enforcer** | Reliably shuts down your Mac by timer, at a set time or on a schedule. | [tunomi.de](https://tunomi.de/#shutdown-enforcer) |
+| **Finder Copy** | A button in the Finder that copies a folder's contents as a table. | [tunomi.de](https://tunomi.de/#finder-copy) |
+| **Rotlichtfilter** | One click and your screen glows only red – easy on your eyes in the evening. | [tunomi.de](https://tunomi.de/#rotlichtfilter) |
+| **Tagesblick Widget** | A large widget for your desktop: weather, stocks, your news and the AI leaderboards at a glance. | [tunomi.de](https://tunomi.de/#tagesblick) |
+| **Kurzbefehle Widget** | A cheat sheet for Mac shortcuts on your desktop. | [tunomi.de](https://tunomi.de/#kurzbefehle) |
 | **Neon Matrix** | Matrix rain behind your terminal – set colours, speed and density with sliders. | [tunomi.de](https://tunomi.de/#neon-matrix) |
 
 The Mac apps are signed with a Developer ID and notarised by Apple. Every download comes with a guide.
